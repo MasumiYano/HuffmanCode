@@ -3,7 +3,7 @@ import java.util.*;
 /**
  * @author Masumi
  * @version 15/3/2023
- * This is the class for decoding part of this assignment.
+ * This is the class for decoding part.
  * */
 public class ConvertCodeToText {
 
